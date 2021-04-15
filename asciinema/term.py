@@ -36,5 +36,5 @@ def get_size():
     # TODO maybe use os.get_terminal_size ?
     return (
         120,
-        120
+        80
     )
