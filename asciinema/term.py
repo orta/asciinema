@@ -35,6 +35,6 @@ def read_blocking(fd, timeout):
 def get_size():
     # TODO maybe use os.get_terminal_size ?
     return (
-        100,
+        120,
         120
     )
